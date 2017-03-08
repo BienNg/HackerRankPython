@@ -22,3 +22,6 @@ print("-"*500)
 string = "abracadabra"
 l = list(string)
 print(str(l[3]).islower())
+
+print("-"*500)
+print(int('10',10))
